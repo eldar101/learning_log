@@ -1,2 +1,1 @@
-# learning_log
- 
+Begginner's web app from Django Tutorial
